@@ -70,7 +70,7 @@ Doctype可声明三种DTD类型，分别表示严格版本、过渡版本以及�
 
 如果XHTML、HTML 4.01文档包含形式完整的DOCTYPE，那么它一般以标准模式呈现。
 
-包含过渡DTD和URI的DOCTYPE也导致页面以标准模式呈现，但是有过渡DTD而没有URI会导致页面以混杂模式呈现。
+包含过渡DTD和URI的DOCTYPE也导致页面以标准模式呈现，但是**有过渡DTD而没有URI**会导致页面以混杂模式呈现。
 
 DOCTYPE不存在或形式不正确会导致HTML和XHTML文档以混杂模式呈现。
 
