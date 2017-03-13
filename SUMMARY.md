@@ -8,5 +8,5 @@
 
 ## Detail
 
-* Html的严格模式和混杂模式
+* [Html的严格模式和混杂模式](detail/html.md)
 
