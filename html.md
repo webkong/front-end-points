@@ -81,7 +81,7 @@
 | video/audio | 媒体播放 |
 | localStorage | 本地离线存储，长期存储数据，浏览器关闭后不丢失 |
 | sessionStorage | 临时存储，关闭浏览器后自动删除 |
-| article/footer/header/nav/section | 语义化更好的标签 |
+| article/footer/header/nav/section/aside/figure/hgroup/address/figcation | 语义化更好的标签 |
 | calendar/date/time/email/url/search | 新增表单空间的type |
 | webworker/websocket/Geolocation | 新的技术 |
 | ~~basefont/big/center/font/s/strike/tt/u~~ | 删除的纯表现的元素 |
