@@ -1,3 +1,19 @@
-# My Awesome Book
+# FE interview knowledge points
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+前端知识驳杂，每个点都有可以深挖的地方。
+
+有道是一入前端深似海。
+
+从html到html5，有PC端到手机端，SEO也必不可少;
+
+从css2.x到css3，css又有许多预编译语言，让css可编程，其中就有less、sass、stylus等多种都有自己特色的语法,时代更迭的盒模型和弹性布局；
+
+Javascript更不必说，灵活多变的用法，浏览器脚本无可撼动的地位，ES6的推行，甚至包括其语法自身的弱点和缺点，有很多的点要学习深究。
+
+这些都是基本的前端基础知识。
+
+再有复杂项目必不可少的模块化编程，比较流行的前端自动化，前端mvvm等一系列前端工程必不可少的技术栈等待学习和开发。
+
+本文就前端基础知识点，面试和筛选扎实功底的前提下所写就的。
+
+没有写到的地方，看到的人可以扩展哦。
